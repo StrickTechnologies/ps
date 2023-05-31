@@ -1,6 +1,3 @@
----
-permalink: /
----
 # **Docs**
 >some fun information here
 
