@@ -6,3 +6,5 @@ permalink: /
 
 ## More fun
 here's more fun information...
+
+[foo](foo.md)
